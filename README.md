@@ -1,3 +1,3 @@
 # Git Basics
 
-Hello world, I love git!
+A basic Git Respository for practice.
